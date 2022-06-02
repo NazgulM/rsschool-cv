@@ -71,7 +71,7 @@ function generateComputerChoice() {
 
 - Chinese \- (C1)
 - English \- Advanced according online test [EFSET](https://www.efset.org/)
-  ![Efset Score](assets/score.png) thanks to Anna Voloshyna for link to test English level.
+  ![Efset Score](assets/score.png) 
   In my opinion my English level now is Upper Intermediate.
 - Dutch - Upper Intermediate (B1)
 - French - Beginner (A2)
