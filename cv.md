@@ -58,7 +58,7 @@ function generateComputerChoice() {
 - HTML Course on [Sololearn](https://www.sololearn.com/learning)
 
 - Learn CSS on [Sololearn](https://www.sololearn.com/learning)
-- Frontend Development (in progress) [RsSchool](https://app.rs.school/course/schedule?course=js-fe-preschool-2022q2)
+- Frontend Development Stage 0 (in progress) [RsSchool](https://app.rs.school/course/schedule?course=js-fe-preschool-2022q2)
 - Python Django (in progress) [BeCoder online courses](https://becoder24.online/)
 
 ---
@@ -75,3 +75,4 @@ function generateComputerChoice() {
   In my opinion my English level now is Upper Intermediate.
 - Dutch - Upper Intermediate (B1)
 - French - Beginner (A2)
+
